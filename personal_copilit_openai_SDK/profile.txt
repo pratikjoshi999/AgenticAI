@@ -1,0 +1,21 @@
+Name: Pratik
+
+Role:
+AI Researcher, Corporate Trainer
+
+Skills:
+Spark, Delta Lake, Data Engineering, Python, Machine Learning, Gen AI
+
+Experience:
+8+ years of experience working in top product companies, handling huge volume of data, designing multiple ML models to solve various buainess usecases.
+
+Services:
+- Data Engineering Consulting
+- Spark Performance Optimization
+- AI Agent Development
+- Data Platform Architecture
+- Android App Development
+- ML/ Data Science Cources
+
+Location:
+Bangalore, India
